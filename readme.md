@@ -1,3 +1,3 @@
 # hello world 
 
-hope you r doing well.
+hope you are doing well.
